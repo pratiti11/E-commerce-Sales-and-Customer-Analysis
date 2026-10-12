@@ -1,0 +1,11 @@
+rnk,category,orders,revenue_brl,share_pct,cumulative_pct
+1,health_beauty,8647,1412090.0,9.2,9.2
+2,watches_gifts,5495,1264333.0,8.2,17.4
+3,bed_bath_table,9272,1225209.0,7.9,25.3
+4,sports_leisure,7530,1118257.0,7.3,32.6
+5,computers_accessories,6530,1032724.0,6.7,39.3
+6,furniture_decor,6307,880330.0,5.7,45.0
+7,housewares,5743,758392.0,4.9,49.9
+8,cool_stuff,3559,691681.0,4.5,54.4
+9,auto,3810,669455.0,4.3,58.7
+10,garden_tools,3448,567146.0,3.7,62.4
